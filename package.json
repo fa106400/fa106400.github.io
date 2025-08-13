@@ -1,0 +1,25 @@
+{
+  "name": "fa106400.github.io",
+  "version": "1.0.0",
+  "description": "Personal GitHub Pages site",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build completed'",
+    "deploy": "gh-pages -d .",
+    "deploy:dist": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fa106400/fa106400.github.io.git"
+  },
+  "keywords": [
+    "github-pages",
+    "personal-site"
+  ],
+  "author": "fa106400",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  },
+  "homepage": "https://fa106400.github.io"
+} 
