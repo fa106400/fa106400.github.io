@@ -1,7 +1,7 @@
 {
-  "name": "fa106400.github.io",
+  "name": "Raposinha Editora",
   "version": "1.0.0",
-  "description": "Personal GitHub Pages site",
+  "description": "Raposinha Editora",
   "main": "index.html",
   "scripts": {
     "build": "echo 'Build completed'",
@@ -12,10 +12,6 @@
     "type": "git",
     "url": "https://github.com/fa106400/fa106400.github.io.git"
   },
-  "keywords": [
-    "github-pages",
-    "personal-site"
-  ],
   "author": "fa106400",
   "license": "MIT",
   "devDependencies": {
